@@ -27,7 +27,7 @@ The AI in this game is programmed to be invincible. It's so challenging that the
 
 - **Console-Based Interface**: The game runs entirely in the console, making it lightweight and easy to play on any system with a C++ compiler.
 - **AI Opponent**: The AI is built to never lose, ensuring a consistent and formidable challenge.
-- **Single Difficulty Level**: The game only offers one difficulty level, "Hell on Earth," reflecting the near-impossibility of defeating the AI.
+- **Single Difficulty Level**: The game only offers one difficulty level, "Hell on Earth," reflecting the impossibility of defeating the AI.
 
 ## 🚀 Getting Started
 
